@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ブルーベリーデイズ",
+  "base_artist": "the paddles",
+  "createdAt": "2026-03-19T11:16:42.280493Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブルーベリーデイズ",
+      "artist": "the paddles",
+      "has_synced": false,
+      "path": "select/pl_01_ブルーベリーデイズ_the_paddles.txt"
+    }
+  ]
+}
